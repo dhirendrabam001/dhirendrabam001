@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="assets/hero.gif" alt="hero banner" width="100%">
+  <img src="hero.gif" alt="hero banner" width="100%">
 </p>
 
 
