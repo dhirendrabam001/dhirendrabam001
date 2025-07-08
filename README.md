@@ -1,5 +1,8 @@
 ## Hi there 👋
-<img src="hero.gif" heroalt="hero" width="100%" />
+<p align="center">
+  <img src="assets/hero.gif" alt="hero banner" width="100%">
+</p>
+
 
 
 <!--
