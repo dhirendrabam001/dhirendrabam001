@@ -1,11 +1,8 @@
 ## Hi there 👋
 <img src="hero.gif" alt="hero banner" width="100%" height="400vh" />
-
-<p>Dhirendra Bam</p>
-
-
 <!--
 **dhirendrabam001/dhirendrabam001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Dhirendra Bam</p>
 
 Here are some ideas to get you started:
 
