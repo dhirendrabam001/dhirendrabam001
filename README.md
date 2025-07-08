@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="assets/banner.gif" width="600" alt="Developer coding animation"/>
+<img src="banner.gif" alt="Banner" width="100%" />
+
 
 <!--
 **dhirendrabam001/dhirendrabam001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
