@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src=".gif" heroalt="Banner" width="100%" />
+<img src="hero.gif" heroalt="hero" width="100%" />
 
 
 <!--
