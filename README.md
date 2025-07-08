@@ -50,11 +50,6 @@ Always learning, building, and collaborating on exciting tech projects!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhirendrabam001&theme=tokyonight&hide_border=false)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dhirendrabam001&theme=algolia&no-frame=true&row=1&column=6)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dhirendrabam001&bg_color=0d1117&color=61dafb&line=38bdf8&point=ffffff&area=true&hide_border=true)
-
-
 
 
 
