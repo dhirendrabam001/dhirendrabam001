@@ -50,6 +50,10 @@ Always learning, building, and collaborating on exciting tech projects!
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhirendrabam001&theme=tokyonight&hide_border=false)
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
 
 
 
