@@ -43,13 +43,14 @@ Always learning, building, and collaborating on exciting tech projects!
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-## 📈 My Github Performance:
+## 📈 My GitHub Performance
 
 ![Dhirendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhirendrabam001&show_icons=true&theme=tokyonight&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendrabam001&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dhirendrabam001&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=dhirendrabam001&theme=tokyonight)
+
 
 
 
