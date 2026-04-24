@@ -4,11 +4,11 @@
 ## 👨‍💻 About Me
 
 <sub>
-Hi, I'm <strong>Dhirendra Bam</strong> — a passionate Full Stack Developer from India 
-I build responsive website using HTML5, CSS3, JavaScript, and Bootstrap on the frontend.  
-On the backend, I work with Node.js, Express.js, and MongoDB (using Mongoose).  
-I love turning ideas into clean, efficient, and scalable web experiences.  
-Always learning, building, and collaborating on exciting tech projects!
+Hi, I'm <strong>Dhirendra Bam</strong> — Passionate MERN Stack Developer with hands-on experience building full-stack web applications using React.js, Node.js, Express.js, and MongoDB. I enjoy turning ideas into real-world projects and writing clean, maintainable code.
+  
+Completed my internship where I worked on developing scalable applications, REST APIs, and authentication systems. Currently focused on improving problem-solving skills and building production-ready projects.
+  
+Always learning and exploring new technologies to grow as a developer. 
 </sub>
 
 ## 🌐 Connect with Me:
