@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 
 <sub>
-Hi, I'm <strong>Dhirendra Bam</strong> — Passionate MERN Stack Developer with hands-on experience building full-stack web applications using React.js, Node.js, Express.js, and MongoDB. I enjoy turning ideas into real-world projects and writing clean, maintainable code.
+Hi, I'm <strong>Dhirendra Bam</strong> Passionate MERN Stack Developer with hands-on experience building full-stack web applications using React.js, Node.js, Express.js, and MongoDB. I enjoy turning ideas into real-world projects and writing clean, maintainable code.
   
 Completed my internship where I worked on developing scalable applications, REST APIs, and authentication systems. Currently focused on improving problem-solving skills and building production-ready projects.
   
