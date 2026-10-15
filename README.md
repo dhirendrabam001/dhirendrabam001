@@ -1,63 +1,60 @@
-<div align="center">
+## Hi there 👋
+<img src="hero.gif" alt="hero banner" width="100%" height="400vh" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhirendra%20Bam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descSize=18" width="100%"/>
+## 👨‍💻 About Me
 
-<a href="https://dhirendrabam.com.np"><img src="https://img.shields.io/badge/Portfolio-dhirendrabam.com.np-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dhirendrabam001"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=dhirendrabam001&style=for-the-badge&color=203a43&label=PROFILE+VIEWS"/>
+<sub>
+Hi, I'm <strong>Dhirendra Bam</strong> Passionate MERN Stack Developer with hands-on experience building full-stack web applications using React.js, Node.js, Express.js, and MongoDB. I enjoy turning ideas into real-world projects and writing clean, maintainable code.Completed my internship where I worked on developing scalable applications, REST APIs, and authentication systems. Currently focused on improving problem-solving skills and building production-ready projects. Always learning and exploring new technologies to grow as a developer. 
+</sub>
 
-</div>
+## 🌐 Connect with Me:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhirendrabam001/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dhirendrabam001)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ig_dhirendra01)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.dhirendrabam.com.np/)
 
-## 👨‍💻 About
+## 🔧 Frontend:
 
-I build production-style web applications end to end: React interfaces, Node/Express APIs, MongoDB data models, authentication and deployment. I care about clean architecture and shipping things that actually work.
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript (ES6+)](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap_5-563D7C?style=flat&logo=bootstrap)
 
-- 🔭 Currently building **AI-powered products** and full-stack platforms
-- 🌱 Deepening: TypeScript, system design, testing, CI/CD
-- 📍 Chandigarh, India
-- 📫 Open to internships and junior full-stack roles
+## 🚀 Backend:
 
-## 🛠️ Tech Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 
-<div align="center">
+## ⚙️ DevOps & Deployment Tools:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres,python,fastapi&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,postman,vscode,figma&theme=dark"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-</div>
+## 📈 My GitHub Performance
 
-## 🚀 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api?username=dhirendrabam001&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**AI-Website-Builder**](https://github.com/dhirendrabam001/AI-Website-Builder) | Generates and publishes websites from text prompts | MERN · AI |
-| [**Trading-Platform**](https://github.com/dhirendrabam001/Trading-Platform) | Trading application with portfolio views | MERN |
-| [**Employee-Management-System**](https://github.com/dhirendrabam001/Employee-Management-System) | Employee records and role-based access | React · Express |
-| [**Job-Portal-2025**](https://github.com/dhirendrabam001/Job-Portal-2025) | Job search, auth and employer dashboards | MERN |
-| [**Ecommerce-API**](https://github.com/dhirendrabam001/Ecommerce-API) | Users, products, cart, orders, payments | Node · MongoDB |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendrabam001&layout=compact&theme=tokyonight" />
 
-## 📊 GitHub Stats
+<img src="https://streak-stats.demolab.com?user=dhirendrabam001&theme=tokyonight" />
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhirendrabam001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendrabam001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=dhirendrabam001&theme=tokyonight&hide_border=true&background=0d1117"/>
 
-</div>
 
-## 🤝 Let's Connect
 
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2c5364?style=flat-square&logo=googlechrome&logoColor=white)](https://dhirendrabam.com.np)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirendrabam001)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dhirendrabam12345@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
-</div>
+
+
+
+
